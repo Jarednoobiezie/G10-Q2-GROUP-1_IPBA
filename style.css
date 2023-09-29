@@ -1,0 +1,874 @@
+/*-------------Default-------------*/
+
+body {
+    background-color: white;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+p, ul {
+    font-family: Open Sans;
+}
+
+
+/*-------------Navigation Bar-------------*/
+
+.navbar {
+    font-family: Open Sans;
+    overflow: hidden;
+    background-color: rgba(90, 90, 90, 0.8);
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+.main {
+    margin-top: 30px; 
+}
+
+.topnav-right {
+  float: right;
+}
+
+/*-------------Main Title-------------*/
+
+
+.div-main-title {
+    text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.main-title {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 60px;
+    display: inline-block
+}
+.p-main-title {
+    font-family: Arial;
+    padding-bottom: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 500px;
+}
+.title-section {
+    font-size: 20px;
+}
+.section-paragraph {
+    font-family: Open Sans;
+    padding-top: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+/*-------------Main Proposal-------------*/
+
+.box-main-proposal {
+    background-color: rgba(141,163,124,1);
+    height: 80px;
+    margin-top: 40px;
+    width: 100%;
+    height: 110px;
+}
+.box-proposal {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: Oswald;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+}
+
+/*-------------Objectives-------------*/
+
+.objectives-section {
+    padding-top: 42px;
+    padding-bottom: 42px;
+}
+.objective-main-div {
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 340px;
+}
+.div-image-objectives {
+    display: inline-block;
+    height: 331px;
+}
+.objectives-image {
+    width: 440px;
+    height: 340px;
+    padding-right: 12px;
+}
+.main-info-box {
+    position: absolute;
+    top: -180;
+    right: -20;
+    display: inline-block;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 750px;
+}
+.objective-header {
+    font-family: Oswald;
+    font-size: 50px;
+    margin-top: 0px;
+    vertical-align: top;
+}
+.objective-box-info {
+    display: inline-block;
+    width: 750px;
+}
+.objective-info {
+    font-size: 20px;
+    font-family: Oswald;
+    width: 600px;   
+    margin-top: 20px;
+    margin-bottom: px;
+    
+}
+
+/*-------------Part 1 Health, Science, Social Studies------------*/
+
+/*-------------Number 1-------------*/
+
+.analysis-heading {
+    background-color: rgba(141,163,124,1);
+    height: 80px;
+    margin-top: 0px;
+    width: 100%;
+    height: 110px;
+}
+.analysis-1 {
+    background-color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+.analysis-1-div {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.analysis-1-ol {
+    font-family: Oswald;
+    font-size: 24px
+}
+.analysis-1-ol-li {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px
+}
+.analysis-1-ul {
+    list-style-type: square;
+}
+.analysis-1-ul-li {
+    font-family: Open Sans;
+    font-size: 16px;
+}
+.analysis-p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+}
+.analysis-p-span {
+    margin-top: 10px;
+    margin-bottom: 4px;
+    margin-left: 0px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+/*-------------Number 2-------------*/
+
+.analysis-2 {
+    background-color: rgba(247,247,247,1);
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.analysis-2-div {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.analysis-2-ol {
+    font-family: Oswald;
+    font-size: 24px
+}
+.analysis-2-ol-li {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px;
+}
+.analysis-2-ul {
+    list-style-type: square;
+}
+.analysis-2-ul-li {
+    font-family: Open Sans;
+    font-size: 16px;
+}
+
+/*-------------Number 3-------------*/
+
+.analysis-3 {
+    background-color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+.analysis-3-div {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.analysis-3-ol {
+    font-family: Oswald;
+    font-size: 24px
+}
+.analysis-3-ol-li {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px
+}
+.analysis-3-ul {
+    list-style-type: square;
+}
+.analysis-3-ul-li {
+    font-family: Open Sans;
+    font-size: 16px;
+}
+
+/*-------------Number 4-------------*/
+
+.analysis-4 {
+    background-color: rgba(247,247,247,1);
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+.analysis-4-div {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.analysis-4-ol {
+    font-family: Oswald;
+    font-size: 24px
+}
+.analysis-4-ol-li {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px
+}
+.analysis-4-ul  {
+    list-style-type: square;
+}
+.analysis-4-ul-li {
+    font-family: Open Sans;
+    font-size: 16px;
+}
+
+/*-------------Number 5-------------*/
+
+.analysis-5 {
+    background-color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+.analysis-5-div {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.analysis-5-ol {
+    font-family: Oswald;
+    font-size: 24px
+}
+.analysis-5-ol-li {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px 
+}
+
+/*-------------Number 5 TABLE-------------*/
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Open Sans;
+}
+.table-infos {
+    text-align: center;
+}
+.number-5-table {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.row-1 {
+    padding: 12px;
+}
+.diseases {
+    padding: 8px;
+}
+.total {
+    padding: 8px;
+    font-weight: bold;
+}
+.Percentage-Total {
+    background-color: rgb(90, 90, 90);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 8px;
+}
+
+/*-------------Number 6-------------*/
+
+.analysis-6 {
+    background-color: rgba(247,247,247,1);
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+.analysis-6-div {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.analysis-6-ol {
+    font-family: Oswald;
+    font-size: 24px
+}
+.analysis-6-ol-li {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px 
+}
+.sitio-div {
+    display: inline-block;
+}
+.sitio-bebe-graph-img {
+    display: inline-block;
+    width: 600px;
+    margin-left: 20px;
+}
+.central-div {
+    display: inline-block;
+}
+.central-luzon-graph-img {
+    display: inline-block;
+    width: 600px;
+    margin-left: 20px;
+}
+
+/*-------------Number 7-------------*/
+
+.analysis-7 {
+    background-color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+.analysis-7-div {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.analysis-7-ol {
+    font-family: Oswald;
+    font-size: 24px
+}
+.analysis-7-ol-li {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px 
+}
+.analysis-7-ul {
+    list-style-type: square;
+    line-height: 28px;
+    width: 1000px;
+}
+.analysis-7-ul-li {
+    font-family: Open Sans;
+    font-size: 16px;
+}
+.analysis-7-p {
+    margin-left: 60px;
+    width: 1150px;
+}
+
+/*-------------Number 8-------------*/
+
+.analysis-8 {
+    background-color: rgba(247,247,247,1);
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+.analysis-8-div {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.analysis-8-ol {
+    font-family: Oswald;
+    font-size: 24px
+}
+.analysis-8-ol-li {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px 
+}
+.analysis-8-ul {
+    list-style-type: square;
+    line-height: 28px;
+    width: 950px;
+    padding-left: 60px;
+}
+.analysis-8-ul-li {
+    font-family: Open Sans;
+    font-size: 16px;
+}
+.analysis-8-p {
+    margin-left: 20px;
+    width: 1150px;
+}
+
+/*-------------Number 9-------------*/
+
+.analysis-9 {
+    background-color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+.analysis-9-div {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.analysis-9-ol {
+    font-family: Oswald;
+    font-size: 24px
+}
+.analysis-9-ol-li {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px 
+}
+.analysis-9-ul {
+    list-style-type: square;
+    line-height: 28px;
+    width: 1200px;
+    padding-left: 60px;
+}
+.analysis-9-ul-li {
+    font-family: Open Sans;
+    font-size: 16px;
+}
+
+/*-------------Number 10-------------*/
+
+.analysis-10 {
+    background-color: rgba(247,247,247,1);
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+
+/*-------------Number 11-------------*/
+
+.analysis-11 {
+    background-color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+.analysis-11-div {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+.analysis-11-ol {
+    font-family: Oswald;
+    font-size: 24px
+}
+.analysis-11-ol-li {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px 
+}
+.analysis-11-ul {
+    list-style-type: square;
+    line-height: 28px;
+    width: 1200px;
+    padding-left: 60px;
+}
+.analysis-11-ul-li {
+    font-family: Open Sans;
+    font-size: 16px;
+}
+.span-p {
+    text-decoration: underline;
+}
+
+/*-------------Number 12-------------*/
+
+.analysis-12 {
+    background-color: rgba(247,247,247,1);
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+
+.analysis-12-ul {
+    list-style-type: square;
+    line-height: 28px;
+    width: 1200px;
+}
+
+/*-------------Number 13-------------*/
+
+.analysis-13 {
+    background-color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+
+/*-------------Part 2 English------------*/
+
+/*-------------Chosen Venue------------*/
+
+.section-chosen-venue {
+    background-color: rgba(247,247,247,1);
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.div-chosen-venue {
+    padding-right: 75px;
+    padding-left: 75px;
+    line-height: 28px;
+    font-size: 13px;
+    font-style: italic;
+}
+
+/*-------------Consert Design------------*/
+
+.section-consert-design {
+    background-color: white;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.div-consert-design {
+    padding-right: 75px;
+    padding-left: 75px;
+}
+.p-consert-design {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px 
+}
+.ul-consert-design {
+    font-family: Open Sans;
+    list-style: square;
+    font-size: 16px;
+    padding-left: 20px;
+}
+
+/*-------------Procedures------------*/
+
+.section-procedures {
+    background-color: white;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.div-procedures {
+    padding-right: 75px;
+    padding-left: 75px;
+}
+.heading-procedures {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+.procedures-objective {
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 8px;
+}
+.procedures-fundraiser {
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 12px;
+    margin-bottom: 6px;
+}
+.ul-procedures {
+    font-family: Open Sans;
+    list-style: square;
+    padding-left: 20px;
+}
+
+/*-------------Equipment------------*/
+
+.section-equipment {
+    background-color: rgba(247,247,247,1);
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.div-equipment {
+    padding-right: 75px;
+    padding-left: 75px;
+}
+.heading-equipment {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+.p-equipment {
+    text-decoration: underline;
+    font-weight: bold;
+}
+.ul-equipment {
+    font-family: Open Sans;
+    list-style: square;
+    line-height: 30px;
+}
+
+/*-------------Host & Performers------------*/
+
+.section-performers {
+    background-color: white;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.div-performers {
+    padding-right: 75px;
+    padding-left: 75px;
+}
+.heading-performers {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px;
+}
+.p-performers {
+    text-decoration: underline;
+    font-weight: bold;
+}
+.ul-performers {
+    font-family: Open Sans;
+    list-style: square;
+    line-height: 28px;
+}
+
+/*-------------Staff & Security------------*/
+
+.section-security {
+    background-color: rgba(247,247,247,1);
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.div-security {
+    padding-right: 75px;
+    padding-left: 75px;
+}
+.heading-security {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px;
+}
+.ul-security {
+    font-family: Open Sans;
+    list-style: square;
+    line-height: 30px;
+    padding-left: 20px;
+}
+
+/*-------------Brand Exposure & Recognition------------*/
+
+.section-recognition {
+    background-color: white;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.div-recognition {
+    padding-right: 75px;
+    padding-left: 75px;
+}
+.heading-recognition {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px;
+}
+.ul-recognition {
+    font-family: Open Sans;
+    list-style: square;
+    line-height: 26 px;
+    padding-left: 20px;
+}
+.p-recognition {
+    font-weight: bold;
+}
+
+/*-------------Promotion------------*/
+
+.section-promotion {
+    background-color: rgba(247,247,247,1);
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.div-promotion {
+    padding-right: 75px;
+    padding-left: 75px;
+}
+.heading-promotion {
+    font-family: Oswald;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 12px
+}
+.p-promotion {
+    margin-top: 12px;
+    line-height: 30px;
+}
+.ul-promotion {
+    list-style: square;
+    padding-left: 22px;
+}
+.p2-promotion {
+    line-height: 12px;
+    padding-left: 50px;
+}
+
+/*-------------Part 3 Filipino------------*/
+
+/*-------------Pamagat------------*/
+
+.section-pamagat {
+    background-color: rgba(247,247,247,1);
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.div-pamagat {
+    text-align: center;
+    padding-right: 48px;
+    padding-left: 48px;
+}
+.title-pamagat {
+    font-family: Spectral, serif;
+    font-size: 20px;
+    margin-bottom: 4px;
+}
+.pampalawak-pamagat {
+    font-family: Spectral, serif;
+    font-size: 14px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.p-pamagat {
+    font-family: Spectral, serif;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+/*-------------Sanaysay------------*/
+
+.section-sanaysay {
+    background-color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.div-sanaysay {
+    font-size: 16px;
+    padding-right: 48px;
+    padding-left: 48px;
+}
+.div1-sanaysay {
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.div2-sanaysay {
+    padding: 8px;
+}
+.p-sanaysay {
+    font-family: Spectral, serif;
+    line-height: 30px;
+}
+.orange-text {
+    font-family: Spectral, serif;
+    font-weight: bold;
+    color: #e69138;
+}
+.red-text {
+    font-family: Spectral, serif;
+    font-weight: bold;
+    color: #cc4125;
+}
+.green-text {
+    font-family: Spectral, serif;
+    font-weight: bold;
+    color: #38761d;
+}
+.pangulo {
+    font-family: Spectral, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/*-------------Part 4 Math------------*/
+
+.section-profit {
+    background-color: rgba(247,247,247,1);
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.sheets-profit {
+    width: 100%;
+    height: 600px;
+}
+.div-profit {
+    padding-right: 48px;
+    padding-left: 48px;
+}
+
+/*-------------Part 5 Life Labs------------*/
+
+.section-video {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.div-video {
+    padding-right: 48px;
+    padding-left: 48px;
+}
+.div1-video {
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.div2-video {
+    padding: 8px;
+}
+.promotional-video {
+    width: 100%;
+    height: 700px;
+    text-align: center;
+}
